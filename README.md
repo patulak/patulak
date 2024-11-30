@@ -25,7 +25,7 @@ Currently studying at CVUT FEL in Prague.
 - ![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat)
 
 ## 📚 Notable Projects
-- **APO_Minesweeper**: A Minesweeper game developed in C for the VRISC processor and run on a 480×360 display pad.
+- **APO_Minesweeper**: A Minesweeper game developed in C for the RISC-V processor and run on a 480×360 display pad.
 - **PROJ**: A private repository dedicated to managing a Scout unit (*správa skautského oddílu*).
 - **Python-programs**: A collection of 100+ Python projects.
 - **PRG**: A graphic renderer built from scratch based on OpenGL.
